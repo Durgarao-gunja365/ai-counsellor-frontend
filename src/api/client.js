@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: "https://ai-counsellor-backend-2.onrender.com",
+  baseURL: "https://ai-counsellor-backend-3.onrender.com",
    withCredentials: true,
 });
 
